@@ -1,4 +1,3 @@
-# Wazuh
 # Mini SOC con Wazuh
 
 ## 📌 Descripción
