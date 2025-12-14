@@ -1,32 +1,43 @@
-# Mini SOC con Wazuh
 
-## 📌 Descripción
-Este laboratorio presenta la implementación del SIEM de Wazuh y su despliegue, para mostrar de forma sencilla como recopila los logs de las actividades
+# Mini SOC with Wazuh
 
-## 🎯 Objetivo
-- Entender arquitectura Wazuh.
-- Configurar agentes y políticas.
-- Analizar alertas reales.
-- Crear reglas y decoders.
-  
-## 🛠️ Herramientas utilizadas
+## 📌 Project Overview
+This project demonstrates the implementation of a Mini Security Operations Center (SOC)
+using Wazuh for threat detection, monitoring, and incident response.
+
+## 🎯 Objectives
+- Deploy Wazuh Manager and agents
+- Simulate real-world attacks
+- Detect and analyze security alerts
+- Create dashboards and alerts
+- Practice SOC analyst skills
+
+## 🏗 Architecture
 - Wazuh Manager
-- Wazuh Agent (Windows/Linux)
-- Sysmon
-- ELK Stack
+- Wazuh Agents (Linux / Windows)
+- Elastic Stack
+- Attacker machine (Kali Linux)
 
-## 🔎 Pasos principales
-1. Instalar y configurar Wazuh Manager.
-2. Agregar agentes y validar conectividad.
-3. Analizar alertas generadas por Sysmon.
-4. Crear tus propias reglas y decoders.
-5. Documentar hallazgos.
+![Architecture Diagram](architecture/soc-diagram.png)
 
-## 📷 Evidencias
-Capturas de dashboard
-Decoders creados
-Alertas detectadas
+## 🛠 Tools & Technologies
+- Wazuh
+- Elastic Stack
+- Linux
+- Kali Linux
+- MITRE ATT&CK
 
-## ✅ Conclusiones
-Con este laboratorio logré detectar intentos de fuerza bruta correlacionando eventos de login en Splunk. 
-Aprendí a configurar reglas de búsqueda y alertas que pueden aplicarse en un entorno SOC real.
+## 📂 Project Structure
+Brief explanation of each folder.
+
+## 🚀 How to Run
+Step-by-step instructions to deploy the lab.
+
+## 📊 Results
+Screenshots and analysis of alerts and dashboards.
+
+## 🧠 Lessons Learned
+Key takeaways and improvements.
+
+## 📎 References
+Useful links and documentation.
