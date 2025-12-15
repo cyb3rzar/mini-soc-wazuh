@@ -1,4 +1,7 @@
-Diagrama (puede ser ASCII o imagen)
+## Diagram ##
+
+Wazuh 
+Windows Server
 
 IPs
 
