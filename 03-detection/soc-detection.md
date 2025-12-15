@@ -1,6 +1,4 @@
-Aquí brillas como SOC 👀
-
-Ejemplo:
+## Alerts detection ##
 
 Ataque de fuerza bruta SSH
 
