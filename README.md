@@ -11,7 +11,8 @@ This project simulates a small Security Operations Center (SOC) using Wazuh.
 ## Tools
 - Wazuh
 - Ubuntu Server
-- Windows Server / Windows 10
+- Linux Ubuntu 
+- Windows 10
 - VirtualBox
 
 ## Lab Architecture
